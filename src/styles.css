@@ -28,6 +28,14 @@ h1 {
     padding       : 1em;
 }
 
+.box_border {
+    border: dashed 1px gray;
+}
+
+ul {
+    line-height: 2.0;
+}
+
 @keyframes strAnime {
     0% {
         color     : #ffffff;
