@@ -20,6 +20,14 @@ h1 {
     text-align    : center;
 }
 
+.full_width {
+    width         : 100%;
+}
+
+.section_pads {
+    padding       : 1em;
+}
+
 @keyframes strAnime {
     0% {
         color     : #ffffff;
