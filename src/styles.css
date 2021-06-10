@@ -16,6 +16,10 @@ h1 {
     animation     : strAnime 3s linear infinite;
 }
 
+.lead_center{
+    text-align    : center;
+}
+
 @keyframes strAnime {
     0% {
         color     : #ffffff;
