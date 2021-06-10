@@ -6,7 +6,7 @@
 - index.html
 - src
     - index.js
-    - index.css
+    - styles.css
 
 
 # 変更記録
