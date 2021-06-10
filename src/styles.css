@@ -36,6 +36,16 @@ ul {
     line-height: 2.0;
 }
 
+.remove_margin {
+    margin: 0;
+}
+
+.text_meta{
+    font-size: 0.75em;
+    color: gray;
+    line-height: 1.0;
+}
+
 @keyframes strAnime {
     0% {
         color     : #ffffff;
